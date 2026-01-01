@@ -1,1 +1,1 @@
-https://facebok-clon.netlify.app
+https://codesufyan85.github.io/facebook-clone/
